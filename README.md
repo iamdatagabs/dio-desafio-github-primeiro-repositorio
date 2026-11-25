@@ -1,6 +1,13 @@
-# dio-desafio-github-primeiro-repositorio
-Repositório do Desafio de Projeto sobre Git/Github da DIO
+# Primeiro Repositório GitHub — Desafio DIO
 
-##Links Úteis
-[Links Úteis - Sintaxe] (https://www.markedownguide.org/basic-syntax/)
-[Links Úteis - Linktree @gabsgeografo] (https://linktr.ee/gabsgeografo/)
+Registro do desafio introdutório de Git e GitHub realizado na Digital Innovation One (DIO).
+
+## Objetivo
+Praticar a criação de repositórios, organização de arquivos, versionamento e documentação em Markdown.
+
+## Referências
+- [GitHub Docs](https://docs.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+- [Portfólio atualizado](https://iamdatagabs.github.io/iamdatagabs/portfolio/)
+
+Repositório histórico de aprendizagem, preservado como parte da trajetória de formação.
